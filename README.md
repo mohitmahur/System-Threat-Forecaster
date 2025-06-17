@@ -69,3 +69,14 @@ from tabulate import tabulate
 from rich.console import Console
 from rich.table import Table
 import warnings
+
+
+
+🛠️ How to Run
+Clone this repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/mohitmahur/System-Threat-Forecaster
+cd System-Threat-Forecaster
